@@ -15,7 +15,7 @@
     "jade": "~1.11.0",
     "mongoose": "^4.7.5",
     "mongoose-auto-increment": "^5.0.1",
-    "morgan": "~1.8.1",
+    "morgan": "~1.9.1",
     "nodemon": "^2.0.4",
     "serve-favicon": "~2.4.2"
   }
